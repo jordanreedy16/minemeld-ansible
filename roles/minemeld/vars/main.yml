@@ -16,5 +16,5 @@ local_ca_directory: "{{local_directory}}/certs/site"
 supervisor_directory: "{{main_directory}}/supervisor"
 engine_directory: "{{main_directory}}/engine"
 
-python_executable: /usr/bin/python2.7
+python_executable: /usr/bin/python3
 redis_server_service: redis
